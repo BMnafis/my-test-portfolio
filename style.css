@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 section {
-  margin-bottom: 100px;
+  margin-bottom: 130px;
 }
 .flex-container {
   display: flex;
@@ -59,4 +59,27 @@ h2 {
 }
 .right-banner img {
   width: 90%;
+}
+.left-dream-big {
+  padding-left: 40px;
+}
+.left-dream-big img {
+  width: 90%;
+}
+.right-dream-big {
+  padding-left: 30px;
+  padding-right: 60px;
+}
+.right-dream-big p {
+  text-align: justify;
+  color: rgb(97, 97, 97);
+}
+.right-dream-big h3 {
+  font-weight: 500;
+  font-size: 24px;
+}
+.dream-big {
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
 }
